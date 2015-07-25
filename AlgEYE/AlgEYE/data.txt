@@ -1,0 +1,228 @@
+Time since beginning: 1:00 hours 
+HSV (SD): 28.5052, 13.9068, 154.366
+HSV (C): 32.1412, 12.4402, 157.98
+
+Time since beginning: 2:00 hours 
+HSV (SD): 27.889, 12.9833, 154.199
+HSV (C): 25.7995, 13.2724, 157.368
+
+Time since beginning: 3:00 hours 
+HSV (SD): 38.6905, 10.3993, 153.4
+HSV (C): 35.4719, 10.8092, 157.016
+
+Time since beginning: 4:00 hours 
+HSV (SD): 21.9846, 20.4699, 156.29
+HSV (C): 20.0872, 20.0581, 160.094
+
+Time since beginning: 5:00 hours 
+HSV (SD): 18.7116, 24.3092, 154.922
+HSV (C): 17.207, 23.4783, 158.314
+
+Time since beginning: 6:00 hours 
+HSV (SD): 27.0623, 18.9048, 155.415
+HSV (C): 27.2427, 17.8607, 158.804
+
+Time since beginning: 7:00 hours 
+HSV (SD): 33.8108, 14.2046, 153.585
+HSV (C): 35.4128, 13.1473, 156.822
+
+Time since beginning: 8:00 hours 
+HSV (SD): 40.085, 11.7745, 152.053
+HSV (C): 44.8166, 10.8035, 155.081
+
+Time since beginning: 9:00 hours 
+HSV (SD): 38.9556, 11.6585, 151.818
+HSV (C): 41.9038, 10.2426, 154.592
+
+Time since beginning: 10:00 hours 
+HSV (SD): 37.7087, 13.07, 150.743
+HSV (C): 40.1895, 11.5197, 153.565
+
+Time since beginning: 11:00 hours 
+HSV (SD): 35.1822, 13.3607, 152.464
+HSV (C): 37.0467, 11.4759, 155.318
+
+Time since beginning: 12:00 hours 
+HSV (SD): 36.3253, 14.2606, 151.108
+HSV (C): 36.3656, 12.4098, 153.884
+
+Time since beginning: 13:00 hours 
+HSV (SD): 36.0871, 15.4036, 150.091
+HSV (C): 36.2459, 13.7534, 152.809
+
+Time since beginning: 14:00 hours 
+HSV (SD): 34.9489, 15.003, 150.54
+HSV (C): 34.6948, 13.6672, 153.258
+
+Time since beginning: 15:00 hours 
+HSV (SD): 34.9398, 16.3314, 149.035
+HSV (C): 34.6308, 14.7089, 151.792
+
+Time since beginning: 16:00 hours 
+HSV (SD): 37.5155, 16.6553, 149.539
+HSV (C): 37.5163, 15.3218, 152.346
+
+Time since beginning: 1:00 hours 
+HSV (SD): 62.1455, 29.4403, 155.436
+HSV (C): 60.785, 29.0938, 148.14
+
+Time since beginning: 2:00 hours 
+HSV (SD): 63.8961, 29.04, 153.16
+HSV (C): 61.5829, 28.8624, 145.19
+
+Time since beginning: 3:00 hours 
+HSV (SD): 64.7676, 27.8378, 158.836
+HSV (C): 62.4378, 26.6134, 155.116
+
+Time since beginning: 4:00 hours 
+HSV (SD): 61.3879, 29.2423, 158.229
+HSV (C): 56.5536, 30.345, 154.615
+
+Time since beginning: 5:00 hours 
+HSV (SD): 61.3183, 29.1521, 156.402
+HSV (C): 55.9875, 31.4951, 152.786
+
+Time since beginning: 6:00 hours 
+HSV (SD): 57.2545, 32.6642, 155.791
+HSV (C): 51.2244, 39.5136, 152.145
+
+Time since beginning: 7:00 hours 
+HSV (SD): 55.8004, 35.4481, 156.758
+HSV (C): 49.5198, 44.5361, 153.078
+
+Time since beginning: 8:00 hours 
+HSV (SD): 52.5331, 39.532, 157.374
+HSV (C): 46.9997, 50.7363, 153.57
+
+Time since beginning: 9:00 hours 
+HSV (SD): 48.539, 49.2913, 155.286
+HSV (C): 43.9922, 65.3831, 151.43
+
+Time since beginning: 10:00 hours 
+HSV (SD): 45.6303, 58.1786, 160.877
+HSV (C): 42.4036, 74.6949, 157.006
+
+Time since beginning: 11:00 hours 
+HSV (SD): 43.3347, 72.7634, 160.122
+HSV (C): 40.5713, 93.6769, 156.294
+
+Time since beginning: 12:00 hours 
+HSV (SD): 40.3957, 99.9915, 158.337
+HSV (C): 38.5674, 126.338, 154.502
+
+Time since beginning: 13:00 hours 
+HSV (SD): 38.7184, 131.484, 162.57
+HSV (C): 37.0365, 175.335, 157.487
+
+Time since beginning: 14:00 hours 
+HSV (SD): 37.1645, 181.697, 163.857
+HSV (C): 36.2443, 226.295, 157.463
+
+Time since beginning: 15:00 hours 
+HSV (SD): 36.4325, 240.501, 166.927
+HSV (C): 36.3756, 249.3, 161.761
+
+Time since beginning: 16:00 hours 
+HSV (SD): 36.7031, 252.505, 166.179
+HSV (C): 37.1894, 251.884, 159.125
+
+Time since beginning: 17:00 hours 
+HSV (SD): 37.093, 252.999, 165.615
+HSV (C): 37.8245, 251.927, 158.575
+
+Time since beginning: 18:00 hours 
+HSV (SD): 37.9508, 253.121, 163.596
+HSV (C): 38.6782, 251.805, 158.061
+
+Time since beginning: 19:00 hours 
+HSV (SD): 39.0074, 253.375, 157.481
+HSV (C): 39.5367, 251.98, 153.705
+
+Time since beginning: 20:00 hours 
+HSV (SD): 39.5091, 253.131, 157.526
+HSV (C): 39.7667, 251.922, 155.089
+
+Time since beginning: 21:00 hours 
+HSV (SD): 40.1756, 253.48, 153.589
+HSV (C): 39.8382, 251.996, 153.719
+
+Time since beginning: 1:00 hours 
+HSV (SD): 35.4036, 253.135, 149.74
+HSV (C): 34.8822, 251.436, 152.168
+
+Time since beginning: 2:00 hours 
+HSV (SD): 35.0089, 253.039, 150.186
+HSV (C): 34.3591, 251.175, 153.238
+
+Time since beginning: 3:00 hours 
+HSV (SD): 34.7225, 252.891, 150.579
+HSV (C): 34.1629, 250.856, 153.471
+
+Time since beginning: 4:00 hours 
+HSV (SD): 37.5621, 252.585, 152.478
+HSV (C): 36.9853, 250.501, 155.383
+
+Time since beginning: 5:00 hours 
+HSV (SD): 37.8186, 252.746, 151.2
+HSV (C): 37.2886, 250.716, 154.033
+
+Time since beginning: 6:00 hours 
+HSV (SD): 37.7718, 252.564, 151.119
+HSV (C): 37.191, 250.553, 153.661
+
+Time since beginning: 7:00 hours 
+HSV (SD): 37.6316, 252.59, 150.994
+HSV (C): 37.2225, 250.694, 152.656
+
+Time since beginning: 8:00 hours 
+HSV (SD): 37.7949, 252.486, 149.717
+HSV (C): 37.3889, 250.53, 151.038
+
+Time since beginning: 9:00 hours 
+HSV (SD): 37.8321, 252.591, 147.636
+HSV (C): 37.418, 250.763, 148.751
+
+Time since beginning: 10:00 hours 
+HSV (SD): 37.3962, 252.562, 150.873
+HSV (C): 36.9852, 250.471, 152.251
+
+Time since beginning: 11:00 hours 
+HSV (SD): 37.4879, 252.494, 148.042
+HSV (C): 37.1104, 250.689, 149.522
+
+Time since beginning: 12:00 hours 
+HSV (SD): 37.2758, 252.417, 146.851
+HSV (C): 36.9352, 250.61, 148.804
+
+Time since beginning: 13:00 hours 
+HSV (SD): 37.3442, 252.546, 145.509
+HSV (C): 36.9567, 250.601, 147.945
+
+Time since beginning: 14:00 hours 
+HSV (SD): 37.069, 252.273, 149.583
+HSV (C): 36.691, 250.031, 152.07
+
+Time since beginning: 15:00 hours 
+HSV (SD): 37.105, 252.148, 148.777
+HSV (C): 36.8275, 249.936, 151.123
+
+Time since beginning: 16:00 hours 
+HSV (SD): 37.2775, 252.084, 147.662
+HSV (C): 37.029, 249.933, 149.952
+
+Time since beginning: 17:00 hours 
+HSV (SD): 37.1822, 252.069, 147.545
+HSV (C): 37.0839, 250.024, 149.3
+
+Time since beginning: 18:00 hours 
+HSV (SD): 37.246, 251.925, 147.097
+HSV (C): 37.1581, 249.775, 148.619
+
+Time since beginning: 1:00 hours 
+HSV (SD): 22.6986, 113.39, 201.028
+HSV (C): 68.7798, 50.9928, 99.8489
+
+Time since beginning: 2:00 hours 
+HSV (SD): 24.4023, 114.137, 213.421
+HSV (C): 29.3521, 102.046, 88.27
+

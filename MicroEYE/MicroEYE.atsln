@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MicroEYE", "MicroEYE\MicroEYE.cproj", "{505CBAAD-5CB2-4174-AAA5-B0BDEDC7FEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505CBAAD-5CB2-4174-AAA5-B0BDEDC7FEC8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{505CBAAD-5CB2-4174-AAA5-B0BDEDC7FEC8}.Debug|AVR.Build.0 = Debug|AVR
+		{505CBAAD-5CB2-4174-AAA5-B0BDEDC7FEC8}.Release|AVR.ActiveCfg = Release|AVR
+		{505CBAAD-5CB2-4174-AAA5-B0BDEDC7FEC8}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
