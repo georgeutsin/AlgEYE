@@ -1,5 +1,7 @@
 # ![AlgEYE](media/promo.png)
 
+*Science Fair project that received Gold at Waterloo Regional Science Fair and Silver at Canada Wide Science Fair*
+
 AlgEYE is a system that automatically monitors algal growth and controls hydrogen production. Green algae is known to produce hydrogen gas under anaerobic states influenced by sulfur depletion, however this can have negative long term repercussions on the algae. By creating a system that automatically regulates the sulfur levels, hydrogen production is not sacrificed to algal nutrient starvation.
 
 ![AlgEYE Program Flow](media/diagram.jpg)
