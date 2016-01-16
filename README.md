@@ -4,7 +4,7 @@ AlgEYE is a system that automatically monitors algal growth and controls hydroge
 
 ![AlgEYE Program Flow](media/diagram.jpg)
 
-*See the [full report](https://github.com/georgeutsin/AlgEYE/media/report.pdf) for more information.*
+*See the [full report](https://github.com/georgeutsin/AlgEYE/blob/master/media/report.pdf) for more information.*
 
 
 ## Install
