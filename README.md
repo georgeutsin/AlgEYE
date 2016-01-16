@@ -16,6 +16,8 @@ A tutorial on how to do this can be found [here](http://docs.opencv.org/2.4/doc/
 
 Also, modify line 25 and 152 of AlgEYE.cpp to adjust to your COM port and baud rate as all communication with the hardware is through serial.
 
+As well, use Atmlet Studio to push the MicroEYE project to your Atmel based microcontroller. 
+
 
 ## Usage
 
